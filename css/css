@@ -1,17 +1,28 @@
 .body {
-    font-family: "Roboto";
+    font-family: "Roboto" sans-serif,;
     font-weight: 400;
     font-style: normal;
-    background: #2E2F42;
+    color: #434455;
+    background-color:#FFFFFF;
 }
 .studio {
     background: #2E2F42;
     font-family:"Raleway";
+    color:#2e2f42;
 }
 .studio-footer {
     background: #F4F4FD;
     font-family:"Raleway";
     font-size:18px;
+}
+.menu {
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform:uppercase;
+    color: #4d5ae5;
 }
 h1{
 font-family: "Roboto";
