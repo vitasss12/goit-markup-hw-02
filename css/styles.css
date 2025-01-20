@@ -1,11 +1,7 @@
 body{
 font-family: "Roboto",sans-serif;
-font-variation-settings:
-"wdth" 100;
-font-style: normal;
 color: #434455;
-background-color:#FFFFFF;
-font-weight: 400,; 
+background-color:#FFFFFF; 
 }
 .roboto-body{
 font-family: "Roboto",sans-serif;
