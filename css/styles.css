@@ -1,11 +1,10 @@
-.body {
-    font-family: "Roboto", sans-serif;
-  }
-.studio {
+body{
+  font-family:"Roboto", sans-serif}
+.studio{
 background: #2E2F42;
 font-family: "Raleway", serif;
 color:#2e2f42;}
-.studio-footer {
+.studio-footer{
 background: #F4F4FD;
 font-family: "Raleway", serif;
 font-size:18px;}
@@ -32,7 +31,7 @@ line-height: 24;
 letter-spacing: 0.02em;
 text-align: left;
 background: #2E2F42;}
-.address- {
+.address {
 font-family: "Roboto";
 font-size: 16px;
 font-weight: 400;
