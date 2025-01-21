@@ -61,10 +61,10 @@ letter-spacing: 0.02em;
 text-align: left;
 background: #434455;
 }
-.menu-list,.link{
+.menu-list,.list{
   line-height: 1.5;
   color:#2e2f42;
 }
-.link:hover,.link:focus,link:active{
+.menu-list.list:hover,.menu-list.list:active{
   color:#404bbf
 }
