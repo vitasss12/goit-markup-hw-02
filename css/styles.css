@@ -71,3 +71,6 @@ background: #434455;
 .menu-list .list:focus{
   color:#404bbf 
 }
+.menu-list .link:active{
+  color:#404bbf
+}
