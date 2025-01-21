@@ -68,3 +68,6 @@ background: #434455;
 .menu-list.list:hover,.menu-list.list:active{
   color:#404bbf
 }
+.list:active,.list:hover{
+  color:#404bbf
+}
