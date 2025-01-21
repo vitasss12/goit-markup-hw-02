@@ -61,6 +61,9 @@ letter-spacing: 0.02em;
 text-align: left;
 background: #434455;
 }
+.list:hover{
+  color:#404bbf;
+}
 .list-one{
   line-height: 1.5;
   color:#2e2f42;
