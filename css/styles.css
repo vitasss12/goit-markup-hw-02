@@ -37,6 +37,7 @@ background: #2E2F42;}
 .address {
 font-family: "Roboto";
 font-size: 16px;
+font-style: normal;
 font-weight: 400;
 line-height: 24;
 letter-spacing: 0.02em;
@@ -59,4 +60,14 @@ line-height: 24;
 letter-spacing: 0.02em;
 text-align: left;
 background: #434455;
+}
+.list{
+  line-height: 1.5;
+  color:#2e2f42;
+}
+.list:hover{
+  color:#404bbf 
+}
+.list:focus{
+  color:#404bbf 
 }
