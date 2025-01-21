@@ -65,7 +65,7 @@ background: #434455;
   line-height: 1.5;
   color:#2e2f42;
 }
-.menu-list .list:hover,.list:focus{
+.menu-list .list:hover,.link:focus{
   color:#404bbf 
 }
 .menu-list .list:focus,.link:active{
@@ -73,4 +73,7 @@ background: #434455;
 }
 .menu-list .link:active{
   color:#404bbf
+}
+.menu-list .link:hover{
+  color: #404bbf
 }
