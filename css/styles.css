@@ -1,14 +1,6 @@
-body {
+.body {
     font-family: "Roboto", sans-serif;
   }
-.roboto-body{
-font-family: "Roboto",sans-serif;
-font-variation-settings:
-"wdth" 100;
-font-style: normal;
-color: #434455;
-background-color:#FFFFFF;
-font-weight: 400,;}
 .studio {
 background: #2E2F42;
 font-family: "Raleway", serif;
