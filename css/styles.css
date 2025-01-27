@@ -40,8 +40,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.link-header.link-head:hover,
-.link-header.link-head:focus{
+.link-header .link-head:hover,
+.link-header .link-head:focus{
 color: #404bbf;
 }
 .address-head{
