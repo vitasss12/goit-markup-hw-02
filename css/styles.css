@@ -31,25 +31,18 @@ font-weight: 700;
 line-height: 60;
 letter-spacing: 0.02em;
 text-align: center;}
-.menu-list {
-font-family: "Roboto";
-font-size: 16px;
-font-weight: 500;
-line-height: 24;
-letter-spacing: 0.02em;
-text-align: left;
-background: #2E2F42;}
 .link-header{
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .link-head{
-  color: #2e2f42
+color: #2e2f42;
 }
-.link-head:hover , .link-head:focus{
-  color: #404bbf
+.link-head:hover,
+.link-head:focus{
+color: #404bbf;
 }
 .address-head{
   font-style: normal
@@ -64,7 +57,8 @@ text-align: left;
 color:#434455;
 background: #434455;
 line-height: 1.5}
-.link-address:focus, .link-address:hover {
+.link-address:focus, 
+.link-address:hover{
   color: #404BBF;
 }
 h2{
