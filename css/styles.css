@@ -46,6 +46,9 @@ background: #2E2F42;}
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.link-header:hover{
+  color: #404bbf;
+}
 .link-header:focus, .link-header:hover{
   color: #404bbf;
 }
