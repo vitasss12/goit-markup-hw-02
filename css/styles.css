@@ -34,11 +34,14 @@ letter-spacing: 0.02em;
 text-align: center;
 }
 .link-header{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-style: normal
+}
+.link-head{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .link-head:focus,
 .link-head:hover{
