@@ -46,22 +46,20 @@ background: #2E2F42;}
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-header:hover{
-  color: #404BBF;
-}
 .link-header:focus, .link-header:hover{
-  color: #404BBF;
+  color: #404bbf;
 }
 .address-head{
   font-style: normal
 }
-.link-address {
+.link-address{
 font-family: "Roboto";
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 letter-spacing: 0.02em;
 text-align: left;
+color:#434455;
 background: #434455;
 line-height: 1.5}
 .link-address:focus, .link-address:hover {
