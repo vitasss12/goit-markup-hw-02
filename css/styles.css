@@ -23,25 +23,25 @@ font-size:18px;}
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform:uppercase;
-  color: #4d5ae5;}
+  color: #4d5ae5;
+}
 h1{
 font-family: "Roboto";
 font-size: 56px;
 font-weight: 700;
 line-height: 60;
 letter-spacing: 0.02em;
-text-align: center;}
+text-align: center;
+}
 .link-header{
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-}
-.link-head{
 color: #2e2f42;
 }
-.link-head:hover,
-.link-head:focus{
+.link-header.link-head:hover,
+.link-header.link-head:focus{
 color: #404bbf;
 }
 .address-head{
@@ -56,7 +56,8 @@ letter-spacing: 0.02em;
 text-align: left;
 color:#434455;
 background: #434455;
-line-height: 1.5}
+line-height: 1.5
+}
 .link-address:focus, 
 .link-address:hover{
   color: #404BBF;
