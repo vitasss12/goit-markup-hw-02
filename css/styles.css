@@ -3,6 +3,11 @@ body{
   color: #434455;
   background-color:#FFFFFF
 }
+ul, ol {
+  list-style-type: none;}
+  a{
+    text-decoration: none;
+}
 .studio{
 background: #2E2F42;
 font-family: "Raleway", serif;
