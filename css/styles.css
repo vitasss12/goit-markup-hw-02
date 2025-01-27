@@ -52,6 +52,12 @@ background: #2E2F42;}
 .address-head{
   font-style: normal
 }
+.link-header.link{
+  color: #2e2f42
+}
+.link-header:hover , .link-header:focus{
+  color: #404bbf
+}
 .link-address{
 font-family: "Roboto";
 font-size: 16px;
