@@ -64,6 +64,9 @@ letter-spacing: 0.02em;
 text-align: left;
 background: #434455;
 line-height: 1.5}
+.address-link:focus, .address-link:hover {
+  color: #404BBF;
+}
 h2{
 font-family: "Roboto";
 font-size: 20px;
