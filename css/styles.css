@@ -65,9 +65,12 @@ background: #434455;
   line-height: 1.5;
   color:#2e2f42;
 }
-.link{
+.list :active{
   color:#2e2f42
 }
-.link :hover{
+.list :hover{
+  color: #404bbf
+}
+a :hover{
   color: #404bbf
 }
