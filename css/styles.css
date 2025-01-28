@@ -98,3 +98,17 @@ background: #434455;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+.button-order{
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.button-order:hover,
+.button-order:focus{
+  background-color: #404BBF;
+  cursor: pointer;
+}
