@@ -87,4 +87,14 @@ letter-spacing: 0.02em;
 text-align: left;
 background: #434455;
 }
+.section-zero{
+  background-color:#2e2f42;
 
+}
+.business{
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
